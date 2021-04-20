@@ -13,6 +13,6 @@ https://github.com/dwrivera7
 https://linkedin.com/in/dathan-rivera/
 
 ### Resume
-The Google Doc containing my resume has been shared with Clark and my mentor, Logan.
+https://docs.google.com/document/d/1NL8VtTSTrsTEEmfwHjihIImZax1l-eE3jRo9hNOofoo/edit?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
